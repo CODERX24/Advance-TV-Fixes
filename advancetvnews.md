@@ -42,7 +42,9 @@
  
  V.0.24
  changed 'BBC World News' to 'BBC News'
+
  Fixed BBC News stream
+ 
  Fixed four hour delay from Fox News
  
  V.0.25
