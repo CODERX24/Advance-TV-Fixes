@@ -51,3 +51,7 @@
  removed 'Bloomberg'
  Added 'CNBC World'
  
+ 
+ V.1.0
+ ~~~Comming Soon~~~
+ Logo Change
