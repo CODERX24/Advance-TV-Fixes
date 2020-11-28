@@ -53,5 +53,5 @@
  
  
  V.1.0
- ~~~Comming Soon~~~
+ Comming Soon
  Logo Change
