@@ -51,6 +51,8 @@
  removed 'Bloomberg'
  Added 'CNBC World'
  
+ V.0.26 (CURRENT)
+ CLOSING STREAMS FOR VERSION 1, ENDING BETA
  
  V.1.0
  Comming Soon
