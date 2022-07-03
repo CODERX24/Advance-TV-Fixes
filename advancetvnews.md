@@ -1,4 +1,4 @@
-# Advance TV NEWS
+# Advance TV
  change log
  
  V.0.1
@@ -56,17 +56,23 @@
  
  V.1.0
  Blank
+ 
  V.2.0
  Still blank
+ 
  V.3.0
  Still blank
- V.4.0
+
+V.4.0
  Still Blank
+ 
  V.5.0
  Blank
+
  V.6.0
  Fixed feed url blankness
  Channel now works
  changed name to 'Advance TV'
+
  V.11
  Releasing to Roku soon
