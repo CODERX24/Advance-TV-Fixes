@@ -76,3 +76,6 @@ V.4.0
 
  V.11
  Releasing to Roku soon
+
+ V.12
+ App Was Packaged
